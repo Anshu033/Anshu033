@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hii 👋 I'm Anshu Raj <br>✍️ About Me: I'm Full-Stack Developer | C++ & DSA | Building Scalable Web Applications | AI & GenAI Enthusiast
+Hii 👋 I'm Anshu Raj <br>✍️## 👨‍💻 About Me
+
+I'm a **B.Tech CSE (AI & Data Science) student** and an aspiring Software Engineer focused on **Full-Stack Development, DSA, and AI/GenAI**.
+
+- 🚀 **Major Project:** **Welth** — AI-powered Personal Finance Management Platform
+- 🔨 **Currently Working On:** My second full-stack project
+- 💻 Working with **React, Next.js, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, and Tailwind CSS**
+- 🧠 Actively practicing **Data Structures & Algorithms in C++** for placements
+- 🤖 Interested in building practical applications using **AI and modern web technologies**
+- 📚 Continuously learning and improving through real-world projects
 
 
 ## 🌐 Socials:
