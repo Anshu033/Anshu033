@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii 👋 I'm Anshu Raj <br>✍️ About Me: I'm Currently working on My project : LoopIn-Real time Chat App<br>. I'm currently Learning React js And node js and significantly working on DSA for<br> placements.
+Hii 👋 I'm Anshu Raj <br>✍️ About Me: I'm Full-Stack Developer | C++ & DSA | Building Scalable Web Applications | AI & GenAI Enthusiast
 
 
 ## 🌐 Socials:
